@@ -22,7 +22,7 @@
 
 
 
-FoodApp it's web application that help you to make a food with the help of  food recepies description and video both.This project is just for educational purpose.
+FoodApp it's a web application that helps you to make food with the help of food recipe descriptions and videos both. This project is just for educational purposes.
 
 <h3 align="center"><a href="https://taupe-melomakarona-0dfddf.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 
